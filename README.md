@@ -6,6 +6,7 @@ https://mrnoone333.github.io/Education-Website-/home.html
 https://mrnoone333.github.io/Education-Website-/aboutus.html
 
 https://mrnoone333.github.io/Education-Website-/game.html
+(Use the downward arrow button to enter into the door.)
 
 https://mrnoone333.github.io/Education-Website-/courses.html
 
