@@ -1,5 +1,5 @@
 A Education Website , build for project.
-Hosted on github have the followiwng pages can be accessedd through the following links
+Hosted on github have the followiwng pages can be accessed through the following links
 
 https://mrnoone333.github.io/Education-Website-/home.html
 
